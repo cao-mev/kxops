@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'kxops 开心运维'
-theme = "PaperMod"
+
 
 
 [params]
