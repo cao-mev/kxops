@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kxops 开心运维</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on kxops 开心运维</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Feb 2026 22:45:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World：在比特与文字之间</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 09 Feb 2026 22:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h3 id=&#34;序言&#34;&gt;序言&lt;/h3&gt;
+&lt;p&gt;这是我在 Hugo 上的第一篇正式文章。程序员习惯用 &amp;ldquo;Hello World&amp;rdquo; 开启新世界，丈量土地。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;关于起始&#34;&gt;关于起始&lt;/h3&gt;
+&lt;p&gt;正如&lt;strong&gt;加西亚·马尔克斯&lt;/strong&gt;在《百年孤独》的开篇中所写：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“世界崭新之初，万物尚未命名，起始，必须要用手指头去指。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这与我们在终端敲下第一行代码的心境何其相似。每一个新站点的建立，都是一次对数字荒原的命名。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;这里的风景&#34;&gt;这里的风景&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
