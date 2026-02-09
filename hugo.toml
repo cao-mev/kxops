@@ -2,3 +2,14 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'kxops 开心运维'
 theme = "PaperMod"
+
+
+[params]
+    env = "production"
+    # 主页显示信息配置
+    [params.homeInfoParams]
+        Title = "Hello World!"
+        Content = "欢迎来到我的新博客。如果看到这段文字，说明主题加载成功了！"
+
+[markup.goldmark.renderer]
+    unsafe = true  # 允许 HTML 标签
